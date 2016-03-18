@@ -4,31 +4,31 @@
 }
 
 a:link {
-    color: #80B2FF;
+    color: #8D3D5A;
     text-decoration: none;
     font-size: 20px;
 }
 
 a:visited {
-    color: #80B2FF;
+    color: #8D3D5A;
     text-decoration: none;
     font-size: 20px;
 }
 
 a:hover {
-    color: #6A87B2;
+    color: #D99FB4;
     text-decoration: none;
     font-size: 20px;
 }
 
 a:active {
-    color: #80B2FF;
+    color: #8D3D5A;
     text-decoration: none;
     font-size: 20px;
 }
 
  body {
-   color: #E60000;
+   color: #D95E8B;
    font-family: 'Open Sans', sans-serif;
    background-image: url('b.png');
    text-align: center; 
