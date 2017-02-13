@@ -28,15 +28,11 @@ a:active {
 }
 
  body {
-   color: #E60000;
+   color: #727272
    font-family: "Consolas";
-   background-image: url('b.png');
+  
    text-align: center; 
 }
 
 
-img {
-    position: absolute;
-    right: 10px;
-    bottom: 0px;
-}
+
